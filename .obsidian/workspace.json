@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf"
+                "file": "题目原题/CUMCM2016-problem-A-Chinese-version.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2016国赛国一A题优秀论文-基于极值系泊系统设计"
+              "title": "CUMCM2016-problem-A-Chinese-version"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
+                "file": "题目原题/CUMCM2016-problem-A-Chinese-version.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2016国赛国一A题优秀论文-基于极值系泊系统设计 的反向链接列表"
+              "title": "CUMCM2016-problem-A-Chinese-version 的反向链接列表"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
+                "file": "题目原题/CUMCM2016-problem-A-Chinese-version.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2016国赛国一A题优秀论文-基于极值系泊系统设计 的出链列表"
+              "title": "CUMCM2016-problem-A-Chinese-version 的出链列表"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
+                "file": "题目原题/CUMCM2016-problem-A-Chinese-version.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2016国赛国一A题优秀论文-基于极值系泊系统设计 的大纲"
+              "title": "CUMCM2016-problem-A-Chinese-version 的大纲"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "75556304eb1e1af7",
   "lastOpenFiles": [
-    "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
     "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
+    "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
     "往年获奖论文/2016国赛国一A题优秀论文-系泊系统设计.pdf",
     "往年获奖论文/2016国赛国一A题优秀论文-系泊系统设计的多目标优化模型.pdf",
     "往年获奖论文/2016国赛国一A题优秀论文1.pdf",
