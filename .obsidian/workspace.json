@@ -11,14 +11,12 @@
             "id": "75556304eb1e1af7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "题目原题/2026A 国赛原题.md",
-                "mode": "source",
-                "source": false
+                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026A 国赛原题"
+              "icon": "lucide-file-text",
+              "title": "2016国赛国一A题优秀论文-基于力学分析的系泊系统设计"
             }
           }
         ]
@@ -41,7 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题目原题/2026A 国赛原题.md",
+                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026A 国赛原题 的反向链接列表"
+              "title": "2016国赛国一A题优秀论文-基于力学分析的系泊系统设计 的反向链接列表"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题目原题/2026A 国赛原题.md",
+                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026A 国赛原题 的出链列表"
+              "title": "2016国赛国一A题优秀论文-基于力学分析的系泊系统设计 的出链列表"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题目原题/2026A 国赛原题.md",
+                "file": "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026A 国赛原题 的大纲"
+              "title": "2016国赛国一A题优秀论文-基于力学分析的系泊系统设计 的大纲"
             }
           }
         ]
@@ -170,11 +168,15 @@
   },
   "active": "75556304eb1e1af7",
   "lastOpenFiles": [
-    "往年论文分析/论文5-优秀论文1/论文分析报告.md",
-    "往年论文分析/论文4-系泊系统设计的多目标优化模型/论文分析报告.md",
-    "往年论文分析/论文3-系泊系统设计/论文分析报告.md",
-    "往年论文分析/论文2-基于极值系泊系统设计/论文分析报告.md",
+    "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
     "往年论文分析/论文1-基于力学分析的系泊系统设计/论文分析报告.md",
+    "往年论文分析/论文2-基于极值系泊系统设计/论文分析报告.md",
+    "往年论文分析/论文3-系泊系统设计/论文分析报告.md",
+    "往年论文分析/论文4-系泊系统设计的多目标优化模型/论文分析报告.md",
+    "往年论文分析/论文5-优秀论文1/论文分析报告.md",
+    "题目原题/2026A 国赛原题.md",
+    "往年论文分析/横向对比分析报告.md",
+    "往年论文分析/README.md",
     "往年论文分析/往年论文分析方案.md",
     "题目解析/2016年数学建模A题深度解析.md",
     "往年论文分析/论文5-优秀论文1",
@@ -183,11 +185,9 @@
     "往年论文分析/论文2-基于极值系泊系统设计",
     "往年论文分析/论文1-基于力学分析的系泊系统设计",
     "往年论文分析",
-    "题目原题/2026A 国赛原题.md",
     "题目解析",
     "题目原题/CUMCM2016-problem-A-Chinese-version.pdf",
     "CLAUDE.md",
-    "往年获奖论文/2016国赛国一A题优秀论文-基于极值系泊系统设计.pdf",
     "往年获奖论文/2016国赛国一A题优秀论文-基于力学分析的系泊系统设计.pdf",
     "此处插入图片1：传输节点示意图.md",
     "截屏2025-08-07 09.44.59.png"
