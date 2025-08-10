@@ -1,0 +1,64 @@
+% 将此代码插入到LaTeX文档中
+% 需要在导言区添加：\usepackage{tikz}
+
+\begin{tikzpicture}[scale=1.5]
+  % 坐标轴
+  \draw[->] (-2,0) -- (2,0) node[right] {$x$};
+  \draw[->] (0,-1) -- (0,3.5) node[above] {$y$};
+  
+  % 参考线
+  \draw[dashed, gray, thin] (0,0) -- (0,2);
+  \draw[dashed, gray, thin] (-1.5,2) -- (1.5,2);
+  
+  % 钢桶（倾斜15度）
+  \begin{scope}[rotate around={15:(0,2)}]
+    \draw[thick, fill=gray!30] (-0.3,-1) rectangle (0.3,1);
+    % 重物球
+    \filldraw[fill=gray!60] (0,-0.8) circle (0.15);
+  \end{scope}
+  
+  % 标注倾角β
+  \draw[thick] (0,2) -- (0,2.5);
+  \draw[thick] (0,2) -- (0.26,2.48);
+  \draw (0,2) ++(90:0.4) arc (90:75:0.4);
+  \node at (0.15,2.35) {$\beta$};
+  
+  % 力矢量
+  % 钢桶重力
+  \draw[->, thick, blue] (0,2) -- (0,1.4);
+  \node[blue, right] at (0.1,1.7) {$G_{bucket}$};
+  
+  % 重物球重力（考虑倾斜）
+  \draw[->, thick, red] (-0.21,1.23) -- (-0.21,0.6);
+  \node[red, left] at (-0.21,0.9) {$G_{ball}$};
+  
+  % 浮力
+  \draw[->, thick, cyan] (0,2) -- (0,2.6);
+  \node[cyan, right] at (0.1,2.3) {$F_{bucket}$};
+  
+  % 顶部拉力F_1
+  \draw[->, thick, green!60!black] (0.26,2.97) -- (0.6,3.5);
+  \node[green!60!black] at (0.7,3.3) {$F_1$};
+  
+  % 锚链张力
+  \draw[->, thick, purple] (-0.26,1.03) -- (-1.0,0.5);
+  \node[purple] at (-0.8,0.7) {$T_{chain}$};
+  
+  % 力臂标注
+  \draw[dashed, red!50] (0.26,2.97) -- (-0.21,1.23);
+  \draw[thick, red, <->] (0.1,2.97) -- (0.1,1.23);
+  \node[red, right] at (0.1,2.1) {$L\sin\beta$};
+  
+  % 转轴标记
+  \filldraw[fill=white] (0.26,2.97) circle (0.06);
+  \node[above right] at (0.26,2.97) {转轴};
+  
+  % 力矩弧形箭头
+  \draw[red, thick, ->] (0.26,2.97) ++(270:0.5) arc (270:240:0.5);
+  \draw[purple, thick, ->] (0.26,2.97) ++(240:0.5) arc (240:270:0.5);
+  
+  % 角度标注
+  \node[green!60!black] at (0.5,2.8) {$\gamma_1$};
+  \node[purple] at (-0.4,1.1) {$\alpha_2$};
+  
+\end{tikzpicture}

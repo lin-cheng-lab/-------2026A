@@ -1,0 +1,45 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}\else
+  \providecommand\doi[1]{\href{https://doi.org/#1}{\nolinkurl{#1}}}\fi
+
+\bibitem[司守奎\ 等(2011)司守奎 and 孙玺菁]{司守奎2011数学建模算法与应用}
+司守奎, 孙玺菁.
+\newblock 数学建模算法与应用\allowbreak[M].
+\newblock 北京: 国防工业出版社, 2011.
+
+\bibitem[卓金武(2011)]{卓金武2011MATLAB}
+卓金武.
+\newblock MATLAB在数学建模中的应用\allowbreak[M].
+\newblock 北京: 北京航空航天大学出版社, 2011.
+
+\bibitem[Deb et~al.(2014)Deb and Jain]{deb2014evolutionary}
+DEB~K, JAIN~H.
+\newblock An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part i: solving problems with box constraints\allowbreak[J].
+\newblock IEEE Transactions on Evolutionary Computation, 2014, 18\penalty0 (4):\penalty0 577-601.
+
+\bibitem[Faltinsen(1993)]{faltinsen1993sea}
+FALTINSEN~O~M.
+\newblock Sea loads on ships and offshore structures\allowbreak[M].
+\newblock Cambridge: Cambridge University Press, 1993.
+
+\bibitem[王晓峰\ 等(2010)王晓峰 and 唐友刚]{悬链线理论2010}
+王晓峰, 唐友刚.
+\newblock 深海系泊系统悬链线理论及其应用\allowbreak[J].
+\newblock 海洋工程, 2010, 28\penalty0 (3):\penalty0 87-94.
+
+\bibitem[张青富\ 等(2018)张青富, 刘全, and 朱斐]{多目标优化2018}
+张青富, 刘全, 朱斐.
+\newblock 基于NSGA-III的多目标优化算法研究综述\allowbreak[J].
+\newblock 计算机学报, 2018, 41\penalty0 (12):\penalty0 2658-2683.
+
+\bibitem[肖越\ 等(2015)肖越, 王建华, and 唐文勇]{系泊系统2015}
+肖越, 王建华, 唐文勇.
+\newblock 浮式海洋结构物系泊系统设计研究进展\allowbreak[J].
+\newblock 船舶工程, 2015, 37\penalty0 (8):\penalty0 1-8.
+
+\end{thebibliography}
